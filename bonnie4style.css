@@ -1,0 +1,110 @@
+*   {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing:border-box;
+    box-sizing: border-box;
+}
+img {
+    width: 150px;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+body {
+    text-align: center;
+    background: url("http://www.sandiegophotosca.com/var/albums/Sunset-Photos,-Beach-Sunsets/Balboa_Park_Sunset_Photo.JPG?m=1291042305");
+    background-size: 2500 x 2700px;
+    background-position: center;
+    font-family: helvetica;
+}
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+form {
+    color:white;
+}
+ul {
+    list-style-type: none;
+}
+.TOC-lesson {
+    font-size: 20px;
+    line-height: 44px;
+}
+.lesson {
+    background-color: #33BEBE;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+h2 {
+    margin: 10px;
+    color: white;
+}
+h3 {
+    margin: 10px;
+    color: white;
+}
+.concept {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+.concept-title {
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+    color: #294860;
+}
+.concept-description {
+    text-align: left;
+    font-weight: lighter;
+    margin: 6px;
+}
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.container {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+.error {
+    color:red;
+}
+article {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+span.code {
+    font-family: Courier;
+    background-color: #BBBBBB;
+    padding: 2px 4px;
+    font-weight: bold;
+}
+div.code-block {
+    font-family: Courier;
+    background-color: #DDDDDD;
+    padding: 2px 4px;
+    display: inline-block;
+}
+span.indent {
+    margin-left: 38px;
+}
+table, td, th {
+    border: 1px solid gray;
+    text-align: center;
+}
